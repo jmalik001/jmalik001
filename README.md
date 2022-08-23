@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jagabandhu
-- 👀 I’m interested in Technologies such as Java,Js,React, nextJs, Azure, DS and Algorithms
+- 👀 I’m interested in Technologies such as Java,Spring, Js,React, nextJs, Azure, DS and Algorithms
 - 🌱 I’m currently learning nextJS and Algo
 - 💞️ I’m looking to collaborate on Algo and DS
 - 📫 How to reach me jagabandhumallick001@gmail.com
